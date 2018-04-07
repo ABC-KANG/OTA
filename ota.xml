@@ -3,11 +3,18 @@
 <Stable>
 
 <kenzo>
-<Filename>8.1.0-20180317</Filename>
-<RomUrl id="rom" title="" description="">https://goo.gl/vqERDN</RomUrl>
-<ChangelogUrl id="changelog" title="" description="">https://goo.gl/f7hmVm</ChangelogUrl>
+<Filename>8.1.0-20180407</Filename>
+<RomUrl id="rom" title="" description="">https://goo.gl/jj7HQM</RomUrl>
+<ChangelogUrl id="changelog" title="" description="">https://goo.gl/AC6Myb</ChangelogUrl>
 <PaypalUrl id="donation" title="" description="">https://goo.gl/PdoK9A</PaypalUrl>
 </kenzo>
+
+<chiron>
+<Filename>8.1.0-20180407</Filename>
+<RomUrl id="rom" title="" description="">https://goo.gl/MN9Yvu</RomUrl>
+<ChangelogUrl id="changelog" title="" description="">https://goo.gl/AC6Myb</ChangelogUrl>
+<PaypalUrl id="donation" title="" description="">https://goo.gl/PdoK9A</PaypalUrl>
+</chiron>
 
 </Stable>
 </ABCOTA>
